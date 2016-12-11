@@ -1,0 +1,11 @@
+C:\Users\PC\AppData\Local\Temporary Projects\DankZipUtils\bin\Debug\DankZipUtils.exe.config
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankZipUtils\DankZipUtils\bin\Debug\DankZipUtils.exe.config
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankZipUtils\DankZipUtils\bin\Debug\DankZipUtils.exe
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankZipUtils\DankZipUtils\bin\Debug\DankZipUtils.pdb
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankZipUtils\DankZipUtils\bin\Debug\DankZipUtils.xml
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankZipUtils\DankZipUtils\obj\Debug\DankZipUtils.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankZipUtils\DankZipUtils\obj\Debug\DankZipUtils.vbproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankZipUtils\DankZipUtils\obj\Debug\DankZipUtils.exe
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankZipUtils\DankZipUtils\obj\Debug\DankZipUtils.xml
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankZipUtils\DankZipUtils\obj\Debug\DankZipUtils.pdb
+C:\Users\PC\Documents\Visual Studio 2012\Projects\DankZipUtils\DankZipUtils\obj\Debug\DankZipUtils.vbprojResolveAssemblyReference.cache
